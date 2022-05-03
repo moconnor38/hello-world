@@ -35,7 +35,7 @@
    <h1>Really every minute?</h1>
    <h1>Now in containers, it actually works</h1>
    <h1>Now with ansible and automated!</h1>
-   <h1>And using Kubernetes again</h1>
+   <h1>And using Kubernetes again and again</h1>
 
   
 </form>
